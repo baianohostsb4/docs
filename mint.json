@@ -1,0 +1,75 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "SB4 Host",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#007BFF",
+    "light": "#007BFF",
+    "dark": "#007BFF",
+    "anchors": {
+      "from": "#007BFF",
+      "to": "#007BFF"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Contato",
+      "url": "https://www.sb4host.com.br/contato"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Área do Cliente",
+    "url": "https://cliente.sb4host.com.br/login"
+  },
+  "tabs": [
+  ],
+  "anchors": [
+    {
+      "name": "Instagram",
+      "icon": "instagram",
+      "url": "https://www.instagram.com/sb4host/"
+    },
+    {
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/wfx9C73"
+    },
+    {
+      "name": "Ticket",
+      "icon": "ticket",
+      "url": "https://cliente.sb4host.com.br/submitticket.php"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Início",
+      "pages": [
+        "introducao"
+      ]
+    },
+    {
+      "group": "Área do Cliente",
+      "pages": [
+        "tutoriais/editvps",
+        "tutoriais/formatar",
+        "tutoriais/upgrade",
+        "tutoriais/connect"
+      ]
+    },
+    {
+      "group": "Fivem",
+      "pages": [
+        "FIVEM/portas"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "discord": "https://discord.gg/wfx9C73",
+    "instagram": "https://www.instagram.com/sb4host/",
+    "website": "https://www.sb4host.com.br/"
+  }
+}
