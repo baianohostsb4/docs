@@ -61,9 +61,9 @@
       ]
     },
     {
-      "group": "FiveM",
+      "group": "Servidor",
       "pages": [
-        "FIVEM/portas"
+        "servidor/portas"
       ]
     }
   ],
