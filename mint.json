@@ -63,7 +63,8 @@
     {
       "group": "Servidor",
       "pages": [
-        "servidor/portas"
+        "servidor/portas",
+        "servidor/ativar"
       ]
     }
   ],
