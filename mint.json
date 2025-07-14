@@ -57,14 +57,15 @@
         "tutoriais/editvps",
         "tutoriais/formatar",
         "tutoriais/upgrade",
-        "tutoriais/connect"
+        "tutoriais/connect",
+        "servidor/ativar",
+        "servidor/senha"
       ]
     },
     {
       "group": "Servidor",
       "pages": [
-        "servidor/portas",
-        "servidor/ativar"
+        "servidor/portas"
       ]
     }
   ],
