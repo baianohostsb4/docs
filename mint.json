@@ -67,7 +67,14 @@
       "pages": [
         "servidor/portas"
       ]
+    },
+        {
+      "group": "Team Speak",
+      "pages": [
+        "ts3/banner"
+      ]
     }
+
   ],
   "footerSocials": {
     "discord": "https://discord.gg/wfx9C73",
