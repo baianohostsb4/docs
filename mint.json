@@ -72,7 +72,6 @@
       "group": "TeamSpeak",
       "pages": [
         "ts3/banner",
-        "ts3/ip",
         "ts3/senha"
       ]
     }
